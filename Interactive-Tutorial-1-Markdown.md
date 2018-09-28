@@ -8,19 +8,24 @@ Press `Ctrl + Shift + M` to open a formatted preview on the right.
 
 Write two sentences about yourself, each in a different paragraph.
 
-<!--- Write your answer here. --->
+My name is Ching
+
+I am a sophomore.
 
 ## Headers
 
 Make a 3rd level header with your name:
 
-<!--- Write your answer here. --->
+### Ching Pang
 
 ## Emphasis
 
 Write 4 of your favorite words using each type of emphasis:
 
-<!--- Write your answer here. --->
+_ye_
+
+**sea**
+
 
 ## Lists
 
@@ -37,7 +42,7 @@ Write a sentence describing your major, and insert a link to your major's depart
 ## Images
 
 Insert the Cornell seal image with:
-  1. A relative file path(`/Images/Cornell_University_seal.png`) 
+  1. A relative file path(`/Images/Cornell_University_seal.png`)
   2. A URL (https://raw.githubusercontent.com/AguaClara/aguaclara_tutorial/master/Images/Cornell_University_seal.svg.png)
 
 <!--- Write your answer here. --->
