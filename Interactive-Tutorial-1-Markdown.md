@@ -26,12 +26,24 @@ _ye_
 
 **sea**
 
+~~hey~~
+
+__*hi*__
 
 ## Lists
 
 Make an ordered list of 3 things you hope to achieve this semester, and elaborate on them with sub items. Then, make an unordered list of 3 classes that you're taking this semester:
 
-<!--- Write your answer here. --->
+
+1. Get more sleep
+  1. Be more efficient with my time
+  2. Plan out my schedule
+2.
+3. Balance work and leisure
+
+* Statics
+* Thermo
+* Physics E&M
 
 ## Links
 
@@ -45,7 +57,10 @@ Insert the Cornell seal image with:
   1. A relative file path(`/Images/Cornell_University_seal.png`)
   2. A URL (https://raw.githubusercontent.com/AguaClara/aguaclara_tutorial/master/Images/Cornell_University_seal.svg.png)
 
-<!--- Write your answer here. --->
+![CornellSeal](https://github.com/AguaClara/aguaclara_tutorial/blob/master/Images/Cornell_University_seal.svg.png?raw=true)
+
+Relative Path
+![CornellSeal](/Images/Cornell_University_seal.svg.png)
 
 ## Code Formatting
 
