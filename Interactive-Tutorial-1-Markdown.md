@@ -22,13 +22,13 @@ Make a 3rd level header with your name:
 
 Write 4 of your favorite words using each type of emphasis:
 
-_ye_
+_yeah_
 
 **sea**
 
-~~hey~~
+~~why~~
 
-__*hi*__
+__*what*__
 
 ## Lists
 
@@ -38,7 +38,8 @@ Make an ordered list of 3 things you hope to achieve this semester, and elaborat
 1. Get more sleep
   1. Be more efficient with my time
   2. Plan out my schedule
-2.
+  3. Stick to my schedule
+2. Read
 3. Balance work and leisure
 
 * Statics
@@ -49,7 +50,7 @@ Make an ordered list of 3 things you hope to achieve this semester, and elaborat
 
 Write a sentence describing your major, and insert a link to your major's department website:
 
-<!--- Write your answer here. --->
+[Mechanical engineering is the discipline that applies engineering, physics, engineering mathematics, and materials science principles to design, analyze, manufacture, and maintain mechanical systems.](https://www.mae.cornell.edu/)
 
 ## Images
 
@@ -57,16 +58,17 @@ Insert the Cornell seal image with:
   1. A relative file path(`/Images/Cornell_University_seal.png`)
   2. A URL (https://raw.githubusercontent.com/AguaClara/aguaclara_tutorial/master/Images/Cornell_University_seal.svg.png)
 
-![CornellSeal](https://github.com/AguaClara/aguaclara_tutorial/blob/master/Images/Cornell_University_seal.svg.png?raw=true)
+![CornellSeal](https://raw.githubusercontent.com/AguaClara/aguaclara_tutorial/master/Images/Cornell_University_seal.svg.png)
 
 Relative Path
-![CornellSeal](/Images/Cornell_University_seal.svg.png)
+![CornellSeal](/Images/Cornell_University_seal.png)
 
 ## Code Formatting
 
 Put the name of this file in an in-line (single backtick) code format.
 
-<!-- Write your answer here. -->
+Interactive-Tutorial-1-Markdown.md
+
 
 Put the following text in a Python-formatted code block:
 
@@ -75,14 +77,22 @@ def foo():
     print("Particles of a feather...")
     print("...floc together!")
 ```
+```python
+def foo():
+    print("Particles of a feather...")
+    print("...floc together!")
+```
 
-<!-- Write your answer here. -->
 
 ## Tables
 
 Create a table listing your 3 favorite animals, books, and places on campus. Use a different alignment for each column.
 
-<!--- Write your answer here. --->
+| Animals  | Foods    | Books | Places on Campus |
+|:-------- |:-------- | ----- | ---------------- |
+| Panda | Siumai |To Kill a Mocking Bird|Libe Slope|
+| Dolphin | Dim Sum | To Live |Upson
+| Sloth |Dumplings |1984|  Duffield                |
 
 
 ## Blockquotes
