@@ -34,7 +34,7 @@ print(favorite_food)
 # TODO 2: Calculate the volume of a 7 x 7 x 5 cube using Python math
 # operations.
 
-volume = 0 # Your answer here
+volume = 7*7*5 # Your answer here
 
 print(volume)
 
@@ -48,6 +48,9 @@ print(volume)
 hydraulic_processes = ['flocculation', 'sedimentation', 'stirring']
 
 # Your answer here
+hydraulic_processes.pop()
+hydraulic_processes.append('filtration')
+hydraulic_processes[1] = '1 LPS'
 
 print(hydraulic_processes)
 
@@ -57,7 +60,9 @@ print(hydraulic_processes)
 analogy = {'knowledge' : 'power', 'France': 'ham'}
 
 # Your answer here
+analogy['France'] = 'bacon'
 
+print(analogy['knowledge'] + ' ' + analogy['France'])
 print(analogy['knowledge'] + ' ' + analogy['France'])
 
 # TODO 5: Write a conditional statement that determines if both of
@@ -76,6 +81,10 @@ c = False or not False and True or True
 does_it_work = 'maybe'
 
 # Your answer here
+if((a or b) and not c):
+    does_it_work = 'yes'
+else:
+    does_it_work = 'no'
 
 print(does_it_work)
 
@@ -88,6 +97,8 @@ print(does_it_work)
 x = 1
 
 # Your answer here
+for i in range(1, 30):
+    x *= i
 
 print(x)
 
@@ -101,7 +112,13 @@ x = 4
 
 # Your answer here
 
+def squared(number):
+    return number **2
+
+for i in range(6):
+    x = squared(x)
 print(x)
+
 
 #######################################################################
 # Don't touch this! This is for testing your code.
