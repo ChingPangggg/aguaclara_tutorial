@@ -10,7 +10,7 @@ Write two sentences about yourself, each in a different paragraph.
 
 My name is Ching
 
-I am a sophomore.
+I don't like Markdown.
 
 ## Headers
 
@@ -36,15 +36,17 @@ Make an ordered list of 3 things you hope to achieve this semester, and elaborat
 
 
 1. Get more sleep
-  1. Be more efficient with my time
-  2. Plan out my schedule
-  3. Stick to my schedule
+    - Be more efficient with my time
+    - Plan out my schedule
+    - Stick to my schedule
 2. Read
+    - make time to read
 3. Balance work and leisure
+    - try to have fun
 
-* Statics
-* Thermo
-* Physics E&M
+* ENGRD 2020
+* ENGRD 2210
+* PHYS 2213
 
 ## Links
 
@@ -58,7 +60,9 @@ Insert the Cornell seal image with:
   1. A relative file path(`/Images/Cornell_University_seal.png`)
   2. A URL (https://raw.githubusercontent.com/AguaClara/aguaclara_tutorial/master/Images/Cornell_University_seal.svg.png)
 
-![CornellSeal](https://raw.githubusercontent.com/AguaClara/aguaclara_tutorial/master/Images/Cornell_University_seal.svg.png)
+URL
+![CornellSeal](https://github.com/ChingPangggg/aguaclara_tutorial/blob/master/Images/Cornell_University_seal.png?raw=true)
+
 
 Relative Path
 ![CornellSeal](/Images/Cornell_University_seal.png)
@@ -99,16 +103,16 @@ Create a table listing your 3 favorite animals, books, and places on campus. Use
 
 Write your favorite quote. It must be attributed to Albert Einstein.
 
-<!-- Write your answer here. -->
+> What does not kill you makes you stronger. -Albert Einstein
 
 ## Horizontal Rules
 
 Add a horizontal rule:
 
-<!-- Write your answer here. -->
+---
 
 ## LaTeX Formatting
 
 Copy the equation towards the end of the [Markdown tutorial](https://github.com/AguaClara/aguaclara_tutorial/wiki/Markdown#latex-formatting) and paste it here:
 
-<!-- Write your answer here. -->
+$$ a^2 + b^2 = c^2 $$
