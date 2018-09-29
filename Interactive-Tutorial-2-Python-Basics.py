@@ -85,7 +85,6 @@ if((a or b) and not c):
     does_it_work = 'yes'
 else:
     does_it_work = 'no'
-
 print(does_it_work)
 
 # TODO 6: Write a for loop that multiplies x by each integer from 1 to
