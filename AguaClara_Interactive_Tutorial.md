@@ -112,9 +112,9 @@ plt.title("Temperature vs Reynolds Numbers")
 plt.xlabel("Temperature in K")
 plt.ylabel("Reynold Numbers")
 plt.tight_layout()
-plt.savefig('./Images/Temp_Reynold.jpg')
+plt.savefig('/Images/Temp_Reynold.jpg')
 plt.show()
-![TemperaturevsReynoldsNumbers](./Images/Temp_Reynold.jpg)
+![TemperaturevsReynoldsNumbers](/Images/Temp_Reynold.jpg)
 ```
 
 # GitHub Basics
