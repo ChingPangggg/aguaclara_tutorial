@@ -8,9 +8,9 @@ Press `Ctrl + Shift + M` to open a formatted preview on the right.
 
 Write two sentences about yourself, each in a different paragraph.
 
-My name is Ching
+My name is Ching.
 
-I don't like Markdown.
+I am a sophomore.
 
 ## Headers
 
@@ -44,9 +44,9 @@ Make an ordered list of 3 things you hope to achieve this semester, and elaborat
 3. Balance work and leisure
     - try to have fun
 
-* ENGRD 2020
-* ENGRD 2210
-* PHYS 2213
+* MAE 2030
+* MAE 2250
+* MATH 2940
 
 ## Links
 
